@@ -1,7 +1,7 @@
 <!-- prettier-ignore -->
 # 📝React.js Todo App
 
-## [https://react-cool-todo-app.netlify.app/](https://edgarto-do.vercel.app//)
+## [https://edgarto-do.vercel.app/](https://edgarto-do.vercel.app//)
 
 ## 📷 Screenshots
 <img src="public/screenshots/sspc1.png" width="650px" />
