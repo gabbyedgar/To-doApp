@@ -35,7 +35,7 @@ To install and run the project locally, follow these steps:
 The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
 ## ✍🏾 Authors
-- 👤  OCHIBA GABRIEL
+- 👤  Ochiba Gabriel
 * Github: [@gabbyedgar](https://github.com/gabbyedgar)
 
 
